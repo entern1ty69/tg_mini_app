@@ -1,0 +1,1 @@
+{"name":"SniperVPN","short_name":"SniperVPN","description":"Ключи доступа для вашего VPN-клиента","start_url":"./","display":"standalone","background_color":"#ffffff","theme_color":"#ffffff","lang":"ru","scope":"./","icons":[{"src":"sniper.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
