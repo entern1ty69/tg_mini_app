@@ -1,0 +1,1 @@
+import{c as e}from"./index-BXGviH--.js";const a=[["path",{d:"M13 9a1 1 0 0 1 1 -1h6a1 1 0 0 1 1 1v10a1 1 0 0 1 -1 1h-6a1 1 0 0 1 -1 -1v-10",key:"svg-0"}],["path",{d:"M18 8v-3a1 1 0 0 0 -1 -1h-13a1 1 0 0 0 -1 1v12a1 1 0 0 0 1 1h9",key:"svg-1"}],["path",{d:"M16 9h2",key:"svg-2"}]],t=e("outline","devices","Devices",a);export{t as I};
